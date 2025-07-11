@@ -341,7 +341,7 @@ footer.with-shadow {
 }
 
 .profile {
-  background: var(--article-bg-color);
+  background: #ffffff ;
   border: 1px solid #dfdfdf;
   padding: 2em;
   border-radius: 16px;
