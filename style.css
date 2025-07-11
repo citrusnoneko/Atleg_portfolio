@@ -362,6 +362,9 @@ footer.with-shadow {
   border-bottom: 2px solid var(--text-color);
   padding-bottom: 0.3em;
   display: inline-block;
+  background-color: #FFFFFF; /* ← ここを追加 or 好きな色に */
+  padding: 0.3em 0.8em; /* 背景色に余白を追加して見やすく */
+  border-radius: 8px; /* 角を丸くしても可愛くなります */
 }
 
 .label {
