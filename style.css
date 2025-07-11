@@ -302,7 +302,7 @@ footer.with-shadow {
   border: 3px solid var(--grost-orange);
   /* オレンジ避けた色（例: 青系） */
   border-radius: 12px;
-  background-color: var(--article-bg-color);
+  background-color: rgba(255, 238, 255, 0.5);
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
