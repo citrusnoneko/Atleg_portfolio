@@ -60,7 +60,6 @@ body {
   padding: 0;
   font-size: var(--font-base);
   color: var(--text-color);
-  background-color: var(--bg-color);
   background-image: url("./images/mypage2.jpg");
   background-size: cover;           /* 画面全体に広げる */
   background-position: center;      /* 中央に配置 */
