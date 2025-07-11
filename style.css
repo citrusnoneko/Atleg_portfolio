@@ -5,7 +5,7 @@
   --bg-color: #FFDDFF;             /* 薄いピンク */
   --article-color: #CC99CC;        /* 文字用の濃い紫 */
   --article-bg-color: #FFEEFF;     /* さらに薄いピンク */
-  --header-text-color: #EAD9FF;
+  --header-text-color: #FFFFFF;
   --header-bg-color: var(--text-color);
   --main-blur-color: rgba(238, 221, 255, 0.15); /* ピンク系のぼかし */
   --grost-orange: #FFBBFF;         /* アクセントの明るいピンク */
