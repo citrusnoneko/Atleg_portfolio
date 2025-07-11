@@ -7,7 +7,7 @@
   --article-bg-color: #FFEEFF;     /* さらに薄いピンク */
   --header-text-color: var(--bg-color);
   --header-bg-color: var(--text-color);
-  --main-blur-color: rgba(238, 221, 255, 0.15); /* 青系のぼかし */
+  --main-blur-color: rgba(238, 221, 255, 0.15); /* ピンク系のぼかし */
   --grost-orange: #FF66CC;         /* アクセントの明るいピンク */
   /* フォントサイズはそのまま */
   --font-xs: 0.75rem;
